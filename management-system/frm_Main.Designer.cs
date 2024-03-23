@@ -1,6 +1,6 @@
 ﻿namespace management_system
 {
-    partial class Form1
+    partial class frm_Main
     {
         /// <summary>
         ///  Required designer variable.
